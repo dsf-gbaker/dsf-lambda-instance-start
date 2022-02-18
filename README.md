@@ -1,4 +1,4 @@
-# dsf-launch-ec2
+# dsf-lambda-start-instance
 A GO lambda function for launching an ec2 instance
 
 ## PreRequisite(s)
